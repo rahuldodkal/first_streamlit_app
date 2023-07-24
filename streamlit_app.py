@@ -8,7 +8,7 @@ streamlit.text('🥗Pasta')
 streamlit.text('🐔Idli')
 streamlit.text('🥑Omlette')
 
-streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇') 
 
 import pandas
 
