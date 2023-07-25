@@ -5,7 +5,7 @@ import snowflake.connector
 from urllib.error import URLError 
 streamlit.title('My Healthy Diner')
 
-streamlit.header('Todays Menu')
+streamlit.header('Todays Menu') 
 
 streamlit.text('🥣Dosa')
 streamlit.text('🥗Pasta')   
